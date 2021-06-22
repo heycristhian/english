@@ -5,23 +5,28 @@ a)
 03 - What kind of books do you read?
 04 - Do you want another drink?
 05 - Are you a flight attendant?
-06 - Where in Bristol do you live?
+06 - Where do you live in Bristol?
 07 - Who is your favourite writer?
 08 - How old are you?
 09 - Do you have an iPad?
-10 - Is nice your salad?
+10 - Is your salad nice?
 
 b)
 M - So, Beth, (where do you live)?
 B - In North London. In a big flat.
+
 M - (Do you live) with your parents?
 B - No, I live with my sister. (Do you have) any brothers and sisters?
+
 M - I have a sister. She's 23.
 B - (Is she) a student?
+
 M - No, she works. She's a shop assistant.
 B - What about you? (Where do you) work?
+
 M - In a hotel.
 B - (Do you like) your job?
+
 M - Yes, I do. I love it!
 
 
@@ -38,7 +43,7 @@ B - In a factory.
 A - (When) do you go to the gym?
 B - On Tuesdays and Thursdays.
 
-A - (What) do you prefer, the cinmea or the theatre?
+A - (Which) do you prefer, the cinmea or the theatre?
 B - The theatre, I think.
 
 A - (What kind) of music do you like?
@@ -65,13 +70,13 @@ B - Because she has a great voice.
 
 c)
 (What) do you (do)?
-I'm a doctor.
-Where do you work?
-I work in a hospital.
+(I'm) a (doc)tor.
+(Where) do you (work)?
+I (work) in a (hospital).
 
 4 - ** READING ** 
 
-a) Read the article. Is Facebook good for your love life? (No, it's not)
+a) Read the article. Is Facebook good for your love life? (No, it isn't)
 
 b)
 
