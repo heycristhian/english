@@ -1,15 +1,3 @@
-tooth
-foot
-feet
-attempt
-It's pouring down outside
-to put on make-up
-to shave
-to wash your wash
-to take a shower
-to have a shower
-to take a bath
-to have a bath
 to wake up
 to get up
 go off
@@ -233,3 +221,15 @@ Those
 this
 these
 Who's their English teacher?
+grandpa
+ankle
+uncle
+aunt
+niece
+I am an only child
+somehow
+far eyes
+far skin
+dark eyes
+dark skin
+She can't speaks very well
