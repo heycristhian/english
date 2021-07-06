@@ -34,7 +34,7 @@ b)
 1 - Martha is my brother's girlfriend
 2 - That is my parents' car
 3 - I think this is that woman's pen
-4 - They drink tea in the Teacher's Room
+4 - They drink tea in the Teachers' Room
 5 - Do you know Barbara's sister?
 6 - My grandeparents' house is in Ireland
 7 - James' wife is Russian
