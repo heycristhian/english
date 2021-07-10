@@ -159,3 +159,16 @@ she's study french
 FAZER EXERCICIO
 pagi 23 book 24 no file
 4A EXERCICIOS
+
+1 - get up
+2 - have a shower
+3 - get dressed
+4 - have a coffee
+5 - have breakfast
+6 - go to work
+
+1 - He wakes up at 8 o'clock 
+2 - She works in an office 
+3 - She has a coffe at 11 o'clock 
+4 - He has a lot of homework
+5 - She has an interesting day

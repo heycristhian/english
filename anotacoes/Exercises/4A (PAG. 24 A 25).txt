@@ -74,12 +74,12 @@ c) listen
 4 - ** READING **
 a) Liam Neeson is Vanessa Redgrave's (ex-husband).
 1 - (Rachel)
-2 - (Liam Neeson)
+2 - (Tony)
 3 - (Carlo)
-4 - ()
-5 - (Natasha)
+4 - (Natasha)
+5 - (Tim)
 6 - (Daniel)
-7 - ()
+7 - (Daisy)
 
 5 - ** LISTENING **
 1 - (F)
