@@ -172,3 +172,82 @@ pagi 23 book 24 no file
 3 - She has a coffe at 11 o'clock 
 4 - He has a lot of homework
 5 - She has an interesting day
+
+breakfast
+coffee
+cereal
+menu 
+reservations 
+orders 
+food 
+check the tables 
+waiters 
+customers 
+shout instructions 
+cooking 
+make lunch 
+prepare food
+
+8 
+5 e 6
+
+1 o'clock 50 minutes 
+
+3 a 5
+
+5:30 
+
+wednesday
+thurdays 
+go to classes 
+
+basktball 
+
+homework 
+11'oloco 
+
+11:30
+
+on
+onm
+In 
+in 
+in
+at 
+at 
+at 
+at 
+at
+at
+at
+at 
+at
+on
+on
+on
+on
+on
+on
+at
+at
+at
+at
+at
+at
+at
+in
+in
+
+
+1 - at 
+2 - to the beach 
+3 - in an office 
+4 - at 
+5 - to 
+6 - 
+7 - in 
+8 - at 
+9 - in 
+10 - at 
+
+HOMEWORK 4B
