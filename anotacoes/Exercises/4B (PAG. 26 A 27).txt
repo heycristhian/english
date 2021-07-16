@@ -92,6 +92,14 @@ c)
 2 - coffee
 3 - to work 
 4 - housework
-5 - 
-6 - 
+5 - pizza
+6 - bed
+
+4 - ** LISTENING **
+1 - 
+2 - 
+3 - 
+b)
+/TODO
+
 
