@@ -251,3 +251,23 @@ in
 10 - at 
 
 HOMEWORK 4B
+
+
+MAIS FREQUENTES
+always
+nearly always 
+very often
+usually
+
+SOME OF THE TIME 
+regularly
+sometimes
+occasionally
+
+NOT OFTEN OR NOT AT ALL
+rarely
+hardly ever 
+almost never 
+never
+
+Karen is hardly ever in the office on Fridays.
