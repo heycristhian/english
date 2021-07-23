@@ -96,10 +96,33 @@ c)
 6 - bed
 
 4 - ** LISTENING **
-1 - 
-2 - 
-3 - 
+1 - He's a Taxi Driver
+2 - Yes, he loves your job
+3 - He works at night, he starts 7 o'clock evening and he finishes about 6 o'clock
 b)
-/TODO
+
+Mark starts work at 7 pm
+He has a hamburguer or a pizza 
+He finishes work 
+He goes home 
+He goes to bed
+He sleeps for eight hours 
+He gets up 
+He has breakfast
+**** afternoon ****
+He goes to the gym
+He has a shower 
+He watches TV or checks his emails 
+He has dinner 
+
+
+
+
+
+
+
+
+
+
 
 
