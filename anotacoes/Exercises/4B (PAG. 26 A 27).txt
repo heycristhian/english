@@ -10,7 +10,7 @@ in 1984
 on 6th December
 on Monday
 on Saturday evening
-on 21st August
+on (the) 21sts (of) August
 
 
 at 6.30
@@ -52,17 +52,17 @@ a)
 3 - have breakfast
 4 - go to work
 5 - go home
-6 - make the dinner
+6 - go shopping
 
 b)
 01 - go
 02 - get
 03 - have
-04 - get 
+04 - have 
 05 - have
 06 - go
 07 - go
-08 - go
+08 - get
 09 - go
 10 - go
 11 - have
@@ -88,19 +88,19 @@ c)
 a) TODO fazer com belmiro
 
 c)
-1 - wake up 
-2 - coffee
-3 - to work 
-4 - housework
+1 - wake / six 
+2 - have / coffee
+3 - work / bus 
+4 - do / housework
 5 - pizza
-6 - bed
+6 - go / bed / midnight
 
 4 - ** LISTENING **
 1 - He's a Taxi Driver
-2 - Yes, he loves your job
-3 - He works at night, he starts 7 o'clock evening and he finishes about 6 o'clock
-b)
+2 - Yes, he loves it
+3 - he works from 7 o'clock evening and he finishes about 6 o'clock
 
+b)
 Mark starts work at 7 pm
 He has a hamburguer or a pizza 
 He finishes work 
@@ -113,16 +113,4 @@ He has breakfast
 He goes to the gym
 He has a shower 
 He watches TV or checks his emails 
-He has dinner 
-
-
-
-
-
-
-
-
-
-
-
-
+He has dinner
