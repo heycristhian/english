@@ -17,7 +17,7 @@ Waiter, ask Cecil to come here = Garçom, peça a Cecil para vir aqui
 Waitress said you gave her that = Garçonete disse que você deu isso a ela
 Download the full edition comparison chart = Baixe o gráfico de comparação da edição completa
 It always calls my attention = Sempre me chama a atenção
-=================
+================= [OK]
 Frequency adverb comes before the main verbs = Adverbio de frequencia eles vem antes do verbos principais
 The frequency adverbs go after the verb to be = Os adverbios de frequencia vao depois do verbo ser
 Adverbs of frequency go after auxiliaries = Os adverbios de frenquencia vao depois dos auxiliares 
@@ -37,4 +37,44 @@ So relax and stop feeling so guilty = Então relaxe e pare de se sentir tão cul
 Don't forget the tax receipt = Não se esqueça do comprovante de imposto
 I tried even with different key combinations = Eu tentei, mesmo com diferentes combinações de teclas
 I'm constantly worried that people will misinterpret = Estou constantemente preocupado que as pessoas interpretem mal
+================= [OK]
+We can produce gold as much as you like = Podemos produzir ouro tanto quanto você quiser
+The term "ozone layer" is often misunderstood = O termo "camada do ozono" é geralmente mal interpretado
+For my people, Obama is as dangerous as Bush = Porque, para meu povo, Obama é tão perigoso quanto Bush
+But not quite exactly what happens = Porém, não é bem exatamente o que acontece
+Geordi is not at all optimistic = Geordi não está nada otimista
+I was thinking it's more Foreigner = Eu estava pensando que é mais estrangeiro
+Every spell you throw at him brings you bonus credits = Cada feitiço que você joga nele traz créditos de bônus
+She's going to need this free throw to pass mathematics = Ela vai precisar desse lance livre para passar em matemática
+Sylvia is a retired nurse turned artist = Sylvia é uma enfermeira aposentada que virou artista
+So I don't like to be considered the sole songwriter = Então, eu não gosto de ser considerado o único compositor
+She's a flight attendant for Unified Airlines = Ela é uma aeromoça da Unified Airlines
+Four million unemployed almost overnight = Quatro milhões de desempregados quase da noite para o dia
+Please clear the runway for takeoff = Por favor, limpe a pista para decolagem
+I've never been to Starbucks before = Eu nunca estive na Starbucks antes
+You were just so incredibly rude to him = Você foi incrivelmente rude com ele
+Tell him to be Kind to his father = Diga a ele para ser gentil com o pai
+Which is the scientific name for butterfly = Qual é o nome científico para borboleta
+It's so freaking hot in there = Está tanto calor ali
+Oh, my God, baby, you get me so freaking hot = Oh, meu Deus, baby, você me deixa tão quente
+================= [OK]
+Easy as pie, didn't I tell you? = Foi moleza, não disse?
+I think I'll have a piece of cake = Acho que vou comer um pedaço de bolo
+I thought my teeth would melt = Eu pensei que meus dentes iriam derreter
+See our technical data sheets for official statement = Veja nossas fichas técnicas para declaração oficial
+But terribly useful every now and then = Mas terrivelmente útil de vez em quando
+I order food by iFood = Eu peço comida pelo iFood
+On the first floor is a suite with living room and extra storage = No primeiro andar encontra-se uma suite com sala de estar e arrumos extra
+Apartment has kitchen and TV room = O apartamento tem cozinha e sala de TV
+The restaurant features a covered garden terrace = O restaurante dispõe de um terraço coberto com jardim
+All units also feature a balcony = Todas as unidades também possuem uma varanda
+1 bedroom with 2 single beds together = 1 quarto com 2 camas de solteiro juntas
+Its facilities include a vast private garage = Suas instalações incluem uma vasta garagem privada
+Use natural predators in your yard = Use predadores naturais em seu quintal
+But for quality sleep you need dense curtains = Mas, para a qualidade do sono precisa cortinas opacas
+Peters, reconstructing the great timber roof = Peters, que reconstruiu o lindo teto de madeira.
+Then had a small chimney for smoke evacuation = Em seguida, teve uma pequena chaminé para evacuação de fumaça
+A laundry room is also available = Uma lavanderia também está disponível
+I got it this morning in the letterbox = Peguei hoje de manhã na caixa do correio
+Vacuum the floor and any carpets or rugs = Aspire o chão e quaisquer carpetes ou tapetes
 =================
