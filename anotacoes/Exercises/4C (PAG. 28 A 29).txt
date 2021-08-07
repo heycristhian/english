@@ -3,17 +3,17 @@ a)
 01 - Matt (usually sleeps) for eight hours
 02 - He (is always) relaxed
 03 - He (sometimes does) sport or exercise
-04 - He (often has) healthy food
+04 - He (often) eats healthy food
 05 - He (is never) ill
 06 - Becky (sometimes sleeps) for eight hours
 07 - She (is often) relaxed
 08 - She (never does) sport or exercise
-09 - She (hardly ever has) healthy food
+09 - She (hardly ever) eats healthy food
 10 - She (is always) ill
 11 - I (sometimes sleep) for eight hours
 12 - I (am often) relaxed
 13 - I (usually do) sport or exercise
-14 - I (usually have) healthy food
+14 - I (usually) eat healthy food
 15 - I (am hardly ever) ill
 
 b)
@@ -32,7 +32,7 @@ a)
 1 - It has sixty minutes in an hour
 2 - It has twelve months in a year
 3 - It has seven days in a week
-4 - It has sixty secods in a minute
+4 - It has sixty seconds in a minute
 5 - It has four weeks in a month
 6 - It has twenty-four hours in a day
 7 - It has thirty days in June
@@ -44,7 +44,7 @@ b)
 3 - once
 4 - never
 5 - three times
-6 - on
+6 - every
 7 - hardly
 8 - every
 
@@ -52,20 +52,20 @@ b)
 3 - ** PRONUNCIATION **
 (HOUR)
 1 - [e]
-2 - [a]
+2 - [c]
 3 - [h]
 4 - [b]
 5 - [g]
-6 - [c]
+6 - [a]
 7 - [d]
 8 - [f]
 
 4 - ** READING **
 a)
-She works at 94 years old and she makes many things 
+She is 94 and she still works. She makes many thinks 
 
 b)
-1 - [T]
+1 - [F]
 2 - [F]
 3 - [T]
 4 - [F]
@@ -79,7 +79,7 @@ To have an interest
 I do everything else myself
 
 5 - ** LISTENING **
-a) He said Merge is healthy
+a) He said Marge is healthy
 
 b)
 1 - [F]
