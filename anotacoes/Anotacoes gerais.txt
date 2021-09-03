@@ -414,3 +414,13 @@ a)
 7 - it's cold
 8 - it's snowing
 
+
+1 - ()
+2 - (x)
+3 - (x)
+4 - (x)
+5 - ()
+6 - (x)
+
+pag 42 
+we're going up 
