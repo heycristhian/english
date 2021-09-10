@@ -436,3 +436,15 @@ hou / par
 west / A
 ri 
 co / gar
+
+coffee 
+daniel 
+twenty 
+half 
+shirt 
+clothes shopp 
+phone 
+
+medium 
+yes 
+44 99
