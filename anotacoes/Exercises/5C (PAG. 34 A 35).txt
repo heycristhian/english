@@ -37,14 +37,14 @@ b)
 
 3 - ** PRONUNCIATION **
 a)
-1 - Buckingham Palace
-2 - Westminster Abbey
-3 - Oxford Street
-4 - St Paul's Cathedral
-5 - Piccadilly Circus
-6 - Leicester Square
-7 - Houses of Parliament
-8 - Trafalgar Square
+1 - (Buck)ingham (Pa)lace
+2 - (West)minster (A)bbey
+3 - (Ox)ford Street
+4 - St Paul's Ca(the)dral
+5 - (Pi)ccadilly (Cir)cus
+6 - (Lei)cester Square
+7 - (Hou)ses of (Par)liament
+8 - Tra(fal)gar Square
 
 b) JUST CHECK 
 
@@ -61,3 +61,11 @@ b) JUST CHECK
 9 - [F]
 
 5 - ** LISTENING **
+A - [2]
+B - [5]
+C - [8]
+D - [1]
+E - [3]
+F - [4]
+G - [6]
+H - [7]
