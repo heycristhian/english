@@ -8,7 +8,7 @@ a)
 4 - He travels to Asia four times a year
 5 - What does your girlfriend do? 
 6 - Are you working this week?
-7 - It close at 6 p.m., I think.
+7 - It closes at 6 p.m., I think.
 8 - Is it raining today?
 
 b)
@@ -18,12 +18,12 @@ b)
 4 - When (do) you usually (go) to the gym?
 5 - My brother (goes out) nearly every night
 6 - The sun (isn't shining) today. It's quite cold
-7 - (Do) you (are using) your computer at the moment? I (want) to check something on the internet
-8 - My sister (loves) ice skating but she (isn't doing) it very often
+7 - (Are) you (using) your computer at the moment? I (want) to check something on the internet
+8 - My sister (loves) ice skating but she (doesn't do) it very often
 
 2 - ** VOCABULARY **
 
-a) (winter), (spring), (autumn), (summer)
+a) (winter), (spring), (summer), (autumn/fall)
 
 b)
 1 - hot 
@@ -40,11 +40,11 @@ a)
 1 - (Buck)ingham (Pa)lace
 2 - (West)minster (A)bbey
 3 - (Ox)ford Street
-4 - St Paul's Ca(the)dral
+4 - St (Paul)'s Ca(the)dral
 5 - (Pi)ccadilly (Cir)cus
-6 - (Lei)cester Square
+6 - (Lei)cester (Square)
 7 - (Hou)ses of (Par)liament
-8 - Tra(fal)gar Square
+8 - Tra(fal)gar (Square)
 
 b) JUST CHECK 
 
@@ -53,9 +53,9 @@ b) JUST CHECK
 1 - [F]
 2 - [T]
 3 - [F]
-4 - [T]
+4 - [F]
 5 - [T]
-6 - [F]
+6 - [T]
 7 - [T]
 8 - [F]
 9 - [F]

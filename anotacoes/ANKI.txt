@@ -391,6 +391,28 @@ over there = logo ali
 How is it?
 penny = centavo 
 pence = centavos 
+price tag = etiqueta de preco
+she didn't do that on purpose
+swear at...
+standing
+alone 
+by myself 
+by yourself 
+by himself 
+by herself 
+by itself 
+by ourselves
+by yourselves
+by themselves
+on ... own 
+on my own 
+on your own 
+on his own 
+on her own 
+on its own 
+on our own 
+on your own 
+on their own 
 
 
 
