@@ -450,3 +450,33 @@ yes
 44 99
 
 
+
+
+PAGINA 45
+
+1 grammar 
+
+1 - RR
+2 - DMM
+3 - SP 
+4 - DMM
+5 - RR
+6 - SP 
+
+
+6a PAGINA 136
+a) 
+1 - I can't find it 
+2 - She speaks to him in German
+3 - He meets them after work
+4 - Can you help us?
+5 - Ivan is in love with her 
+6 - My son doesn't like them
+
+b)
+1 - she, it, her, us
+2 - they, me, them
+3 - him, her, she, him
+4 - he, them, them, they, me
+5 - he, them, he, it
+
