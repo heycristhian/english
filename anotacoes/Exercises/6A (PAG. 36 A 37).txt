@@ -1,0 +1,82 @@
+1 - ** GRAMMAR ** 
+
+a)
+1 - [I] - [me]
+2 - [You] - [you]
+3 - [He] - [him]
+4 - [She] - [her]
+5 - [it] - [it]
+6 - [We] - [us]
+7 - [you] - [you]
+8 - [They] - [them]
+
+b)
+01 - (him)
+02 - (me)
+03 - (it)
+04 - (her)
+05 - (you)
+06 - (them)
+07 - (us)
+08 - (it)
+09 - (them)
+10 - (her/him)
+
+c)
+(he)      (her)     (her)     (him)     (him)     (she)     (them)    (they)    
+1 - (him)
+2 - (her)
+3 - (he)
+4 - (him)
+5 - (them)
+6 - (they)
+7 - (her)
+8 - (she)
+
+
+2 - ** VOCABULARY ** 
+(answer)      (it's)        message     (press)       (there)       (this)    (wrong)
+1 - (there)
+2 - (it's)
+3 - (answer)
+4 - (this)
+5 - (Press)
+6 - (wrong)
+7 - (message)
+
+
+3 - ** PRONUNCIATION **
+a)
+1 - 
+2 - 
+3 - 
+4 - 
+5 - 
+6 - 
+7 - 
+
+b)
+1 - nice
+2 - this
+3 - me
+4 - ring
+5 - it
+6 - niece
+
+4 - ** READING **
+
+1 - It's Paul's sister
+2 - Forget Andrew, put on her red skirt and go to the party.
+3 - Because he never phones himself.
+4 - Your mother
+
+5 - ** LISTENING **
+
+1 - (B)
+2 - (B)
+3 - (A) 
+4 - (A)
+5 - (B)
+6 - (?)
+7 - (A)
+8 - (B)
