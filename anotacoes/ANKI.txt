@@ -425,6 +425,11 @@ phone somebody
 needs = necessidades
 afterwards = logo em seguida
 see eye to eye with somebody
+grass
+I'm pulling your leg 
+go bowling
+Old habits die hard
+
 
 
 

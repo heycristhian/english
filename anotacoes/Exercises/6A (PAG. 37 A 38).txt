@@ -35,7 +35,7 @@ c)
 
 
 2 - ** VOCABULARY ** 
-(answer)      (it's)        message     (press)       (there)       (this)    (wrong)
+(answer)      (it's)        (message)     (press)       (there)       (this)    (wrong)
 1 - (there)
 2 - (it's)
 3 - (answer)
@@ -59,13 +59,13 @@ b)
 1 - nice
 2 - this
 3 - me
-4 - ring
+4 - theese
 5 - it
 6 - niece
 
 4 - ** READING **
 
-1 - It's Paul's sister
+1 - She's Paul's sister
 2 - Forget Andrew, put on her red skirt and go to the party.
 3 - Because he never phones himself.
 4 - Your mother
@@ -77,6 +77,6 @@ b)
 3 - (A) 
 4 - (A)
 5 - (B)
-6 - (?)
+6 - (B)
 7 - (A)
 8 - (B)
