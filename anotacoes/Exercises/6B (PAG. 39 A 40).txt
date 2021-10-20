@@ -13,13 +13,11 @@ E + -ing
     giving
     taking
 
-
 DOUBLE CONSONANT + -ing
     getting
     running
     stopping
     swimming
-
 
 b) 
 1 - 
@@ -52,7 +50,7 @@ a)
 1 - November, December
 2 - July, August
 3 - March, April
-4 - winter, autumn
+4 - autumn, winter
 5 - third, fourth
 6 - eighth, ninth
 7 - twentieth, twenty-first
@@ -75,7 +73,7 @@ a)
 03 - (Mar)ch
 04 - (A)pril
 05 - (May)
-06 - (Ju)ne
+06 - (June)
 07 - Ju(ly)
 08 - (Au)gust
 09 - Sep(tem)ber
@@ -88,8 +86,8 @@ b) just listen
 c)
 01 - 03/04
 02 - 26/12
-03 - 11/5
-04 - 5/01
+03 - 11/05
+04 - 05/01
 05 - 18/03
 06 - 14/06
 07 - 01/02
@@ -114,6 +112,6 @@ Speaker 4 - (spring)
 
 b)
 Speaker 1 - (b - planning)
-Speaker 2 - (a - walking)
-Speaker 3 - (d - travelling)
+Speaker 2 - (d - travelling) 
+Speaker 3 - (a - walking)
 Speaker 4 - (c - taking photos)

@@ -479,7 +479,11 @@ FACE THE MUSIC = ENCARAR A SITUAÇÃO
 COZY = aconchegante
 in the blink of an eye = num piscar de olhos
 
-
+pleasant = agradavel
+I play jokes "on" somebody
+custom = habito
+coustume = fantasia (I wear a coustume)
+slippery = escorregadio
 
 
 
@@ -492,3 +496,18 @@ very nice like it
 pretty face, but not sing 
 very nice beatiful
 can't hear a feeling
+
+I can speak Korean 
+I know how to speak Korean
+I am able to speak Korean
+
+wasted = a gente usa quando uma pessoa ta sem rumo (bebada pra caralho)
+plastered = 
+sloshed = 
+Shut the fuck up
+
+many = muitos, muitas
+much = muito, muita
+little = pouca, pouca
+few = poucas, poucos
+
