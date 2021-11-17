@@ -1,0 +1,60 @@
+1 - ** GRAMMAR **
+
+a)
+1 - was
+2 - was
+3 - was
+4 - wasn't
+5 - was 
+6 - was 
+7 - was
+8 - wasn't 
+
+
+b)
+01 - (Was Alexander Graham Bell a sportsman? / No, he wasn't)
+02 - (Were Richard Burton and Elizabeth Tayler actors? / Yes, they were)
+03 - (Was Charles Dickens novelist? / Yes, he was)
+04 - (Were the Beatles from the USA? / No, they weren't)
+05 - (Was Lord Byron politician? / No, he wasn't)
+06 - (Was Isaac Newton composer? / No, he wasn't)
+07 - (Was Bono born Ireland? / Yes, he was)
+08 - (Was Amy Winehouse singer? / Yes, she was)
+09 - (Were J R R Tolkien and C S Lewis painters? / No, they weren't)
+10 - (Was Michael Jackson born Britain? / No, he wasn't)
+
+
+c)
+1
+A - (is)
+B - (was)
+
+2
+A - (is)
+B - (isn't / was / is)
+
+3
+A - (is)
+B - (were)
+
+4
+A - (is)
+B - (was / were)
+
+5
+A - (was)
+B - (was)
+
+
+2 - ** VOCABULARY ** 
+a)
+01 - (an inventor)
+02 - ()
+03 - ()
+04 - ()
+05 - ()
+06 - ()
+07 - ()
+08 - ()
+09 - ()
+10 - ()
