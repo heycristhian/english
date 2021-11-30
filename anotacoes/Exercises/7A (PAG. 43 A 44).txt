@@ -14,14 +14,14 @@ a)
 b)
 01 - (Was Alexander Graham Bell a sportsman? / No, he wasn't)
 02 - (Were Richard Burton and Elizabeth Tayler actors? / Yes, they were)
-03 - (Was Charles Dickens novelist? / Yes, he was)
+03 - (Was Charles Dickens a novelist? / Yes, he was)
 04 - (Were the Beatles from the USA? / No, they weren't)
-05 - (Was Lord Byron politician? / No, he wasn't)
-06 - (Was Isaac Newton composer? / No, he wasn't)
-07 - (Was Bono born Ireland? / Yes, he was)
-08 - (Was Amy Winehouse singer? / Yes, she was)
+05 - (Was Lord Byron a politician? / No, he wasn't)
+06 - (Was Isaac Newton a composer? / No, he wasn't)
+07 - (Was Bono born in Ireland? / Yes, he was)
+08 - (Was Amy Winehouse a singer? / Yes, she was)
 09 - (Were J R R Tolkien and C S Lewis painters? / No, they weren't)
-10 - (Was Michael Jackson born Britain? / No, he wasn't)
+10 - (Was Michael Jackson born in Britain? / No, he wasn't)
 
 
 c)
@@ -34,7 +34,7 @@ A - (is)
 B - (isn't / was / is)
 
 3
-A - (is)
+A - (are)
 B - (were)
 
 4
@@ -54,7 +54,7 @@ a)
 04 - a com[po]ser
 05 - a mu[si]cian
 06 - a [pain]ter
-07 - a [busi]nessman or a businesswoman
+07 - a [bus]inessman or a businesswoman
 08 - an [ac]tor or an [ac]tress
 09 - a [scien]tist
 10 - a [sai]lor
@@ -63,15 +63,17 @@ d)
 01 - (was a sailor)
 02 - (were composers)
 03 - (was an American actor)
-04 - (was an astronomer)
-05 - (was a British singer)
-06 - (were an aviation)
+04 - (was a scientist)
+05 - (was a singer)
+06 - (were inventors)
 07 - (an English writer)
 08 - (was a businessman)
-09 - (were an artist)
+09 - (were artists)
  
 
 3 - ** PRONUNCIATION **
+
+4 - ** LISTENING **
 
 a)
 5 - William Shakespare
