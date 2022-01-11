@@ -694,3 +694,80 @@ a)
 6 - (4)
 7 - (8)
 8 - (6)
+
+
+PAGINA 61 
+1
+b)
+1 - (F)
+2 - (F)
+3 - (T)
+4 - (F)
+5 - (F)
+6 - (F)
+7 - (T)
+
+
+ARRIVED 
+killed
+looked = som de t
+followed
+finished = som de t
+closed
+opened
+hated = id
+died
+
+T OUI D
+
+BARBARA
+I PLAYED CARDS WITHJ CGORDON 
+30 PAST ELEVEN
+NO, I DIDN'T  HEARD 
+there's no reason
+
+GORDON
+1 - played cards with barbara
+2 - dont know
+3 - he didn't, he very tired
+4 - business 100% him
+
+CLAUDIA
+1 - went to my room and a had bath...
+2 - 11 o clock
+3 - yes, i heard somobody go to 12 o lcokc, it was amanda, his wife
+4 - she love mr travers, i was loving him, she was angry with him
+
+
+BEN / CLARK
+1 - What time did you meet? 7 PM
+2 - Where was the meeting? assis plaza mall 
+3 - What did you do before the meeting? 7:15 just work
+4 - What time did you go to the cinema? 8 pm started
+5 - How long was the movie? spider-man for 2 hours 30 
+6 - Did you buy something? pop corn, soda
+7 - Have you ever been busted? Never (estranho)
+8 - Where did you watch the movie? ()
+9 - Did you have dinner yesterday?
+10 - What time did you have dinner?
+11 - Where did you have dinner?
+12 - Did you pay by credit card? 
+13 - Can you show me the receipt? Movie and dinner receipt, please. (estranho)
+14 - What did you do after de cinema? He back home
+15 - What time did you get home? 12 pm
+16 - What time did you go to bed? 1 am
+17 - how did you get home? (on foot)
+18 - Is your home far from the place? a little bit
+19 - Clark lives in Marilia
+20 - What else can you tell me about...
+
+
+
+
+
+garage
+
+
+hall 
+living room 
+kitchen 
