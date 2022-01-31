@@ -780,3 +780,54 @@ he wanted to get married to her
 14/01/2022
 1 - aims = alvo / objetivo
 2 - Target 
+
+21/01/2022
+01 - host
+02 - hostess
+03 - I wanna dance with anybody there (Eu quero dancar com qualquer um lá)
+04 - I don't see anybody (Eu nao vejo ninguem)
+05 - I see nobody (Eu não vejo ninguem)
+06 - Is there anybody there? (Há alguem la?)
+07 - I didn't meet anybody
+08 - I met nobody
+09 - true 
+10 - truth
+11 - by myself
+12 - by yourself
+13 - by himself
+14 - by herself
+15 - by ourselves
+16 - by yourselves
+17 - by themselves
+18 - pure malt
+19 - Random = aleatorio
+20 - Randomly = aleatoriamente
+
+25/01/2022
+01 - IT WAS SUPPOSED TO BE FASTER
+02 - I LISTEN TO WHAT MY BOSS HAS TO SAY. OR I LISTEN TO WHAT MY CO-WORKERS HAVE TO SAY
+03 - bless you 
+04 - We discuss
+05 - WE TRY TO SOLVE PROBLEMS TOGETHER
+06 - PLEASED WITH = satisfeito com
+07 - DISABILITY = DEFICIENTE
+08 - ILLNESS = DOENCA
+09 - I'M SICK = ESTOU DOENTE
+10 - I'M ILL
+11 - MEET THE REQUIREMENTS = atender requisitos
+12 - SUCH AS = tais como
+13 - She is so fast -OR- She is such a fast girl
+14 - That's such an expensive car 
+15 - They're such expensive boots 
+16 - I listen to many kinds of music, such as pagode, forró and funk 
+17 - He's a hard-working man 
+18 - He brain is similar to a child's brain
+19 - RELY ON MY FAMILY = depende DA MINHA FAMILIA
+20 - BONDS = PASSOS
+
+28/01/2022
+01 - Rooster = Galo
+02 - related to the sun = relacionado ao ...
+03 - Western movies = filme bang bang
+
+teste
